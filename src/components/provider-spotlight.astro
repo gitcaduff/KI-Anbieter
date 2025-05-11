@@ -1,0 +1,43 @@
+---
+import Link from "@/components/ui/link.astro";
+---
+
+<section class="max-w-4xl mx-auto px-4 py-12">
+  <h2 class="text-3xl lg:text-4xl font-bold mb-8">
+    Empfohlene Anbieter mit strategischem Fokus
+  </h2>
+  
+  <div class="bg-white rounded-lg shadow-sm border border-slate-200 p-8 hover:shadow-md transition-all duration-300">
+    <div class="flex items-start justify-between mb-6">
+      <div>
+        <h3 class="text-2xl font-bold mb-2">owwn.ai</h3>
+        <div class="flex gap-2 mb-4">
+          <span class="px-3 py-1 bg-blue-50 text-blue-700 rounded-full text-sm font-medium">KI-Entwicklung</span>
+          <span class="px-3 py-1 bg-green-50 text-green-700 rounded-full text-sm font-medium">Datenschutz</span>
+          <span class="px-3 py-1 bg-purple-50 text-purple-700 rounded-full text-sm font-medium">Schweiz</span>
+        </div>
+      </div>
+      <div class="text-slate-400">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
+        </svg>
+      </div>
+    </div>
+    
+    <p class="text-lg text-slate-600 mb-6 leading-relaxed">
+      owwn.ai entwickelt individuelle KI-Systeme mit Fokus auf digitale Souveränität, Datenschutz und strategische Integration. Die Lösung ist modular, modellunabhängig und in der Schweiz betrieben.
+    </p>
+    
+    <div class="flex items-center justify-between">
+      <Link href="/anbieter/owwn-ai" class="inline-flex items-center gap-2 group">
+        Zum Anbieterprofil
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 transition-transform group-hover:translate-x-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+        </svg>
+      </Link>
+      <div class="text-sm text-slate-500">
+        <span class="font-medium">Standort:</span> Zürich
+      </div>
+    </div>
+  </div>
+</section> 

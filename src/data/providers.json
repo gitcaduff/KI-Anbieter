@@ -1,0 +1,129 @@
+{
+  "providers": [
+    {
+      "name": "BEGASOFT AG - AI-Services",
+      "description": "Der sicherste Weg, KI-Anwendungen zu erstellen und dabei den schweizerischen Datenschutz einzuhalten und die digitale Souveränität zu bewahren. Die BEGASOFT AI-Services ermöglichen einen einfachen Einstieg in KI, unabhängig davon, ob Sie eine eigene Infrastruktur verwalten oder nicht. Mit unseren sicheren, datenschutzkonformen Lösungen lassen Sie mit KI Ihr Wissen zu Ihrem Vorteil arbeiten.",
+      "kanton": "Bern",
+      "branchen": ["Allgemein KI", "Chatbots", "Allgemein Infrastructure", "Infrastructure-as-a-Service (IaaS)", "Schulung / Kurse"],
+      "hosting": "In der Schweiz",
+      "website": "https://www.begasoft.ch",
+      "preis": "On request",
+      "services": [
+        "Swiss AI-Cloud - Die Schweizer Cloud Plattform für skalierbare, zuverlässige und sichere KI-Workloads",
+        "AI-Platform - Virtuelle Assistenten auf Basis von RAG-Systemen",
+        "AI-Operations - Individuelle Programme für Unternehmen",
+        "AI-Workshops - Vermittlung von technischem Know-how"
+      ]
+    },
+    {
+      "name": "swiss moonshot AG / aiaibot",
+      "description": "aiaibot ist eine Software für Conversational AI, die es Unternehmen ermöglicht ihre Services zu automatisieren. Dank Self-Service Möglichkeiten wird den Kundinnen und Kunden einen begeisternden Mehrwert angeboten. Made in Switzerland.",
+      "kanton": "Zürich",
+      "branchen": ["Chatbots", "Software-as-a-Service (SaaS)", "Automatisierungstechnik", "Allgemein KI", "Text Analytics & NLP"],
+      "hosting": "In der Schweiz",
+      "website": "https://www.aiaibot.ch",
+      "preis": "Preis auf Anfrage",
+      "technologie": "Microservice Architektur mit Kubernetes, Python, Java, Javascript"
+    },
+    {
+      "name": "BE BRAVE AG - EagleGPT",
+      "description": "Mit EagleGPT präsentieren wir eine leistungsstarke KI-Lösung, die speziell für Unternehmen entwickelt wurde, die Wert auf Sicherheit, Effizienz und nahtlose Integration legen. Gehostet in der Schweiz, garantiert EagleGPT Datenschutz und Compliance, sodass Sie KI risikofrei in Ihre Geschäftsprozesse integrieren können.",
+      "kanton": "Zürich",
+      "branchen": ["Allgemein KI", "Chatbots", "Text Analytics & NLP", "Virtual Agents", "Machine Learning"],
+      "hosting": "In der Schweiz",
+      "website": "https://www.bebrave.ch",
+      "preis": "ab 99 CHF monatlich"
+    },
+    {
+      "name": "BE BRAVE AG - EagleVOICE",
+      "description": "EagleVOICE revolutioniert Ihre Kundeninteraktionen durch KI-gesteuerte Sprachagenten. Unsere konversationellen KI-Systeme bearbeiten Anrufe effizient, verbessern die Reaktionszeiten und bieten ein nahtloses Kundenerlebnis.",
+      "kanton": "Zürich",
+      "branchen": ["Allgemein KI", "Chatbots", "Virtual Agents"],
+      "hosting": "In der Schweiz",
+      "website": "https://www.bebrave.ch",
+      "preis": "auf Anfrage"
+    },
+    {
+      "name": "BEGASOFT AG - Brandbot",
+      "description": "Brandbot ist deine zentrale Plattform zur Verwaltung und Kontrolle sämtlicher KI-Anwendungen in deiner Organisation. Unabhängig, sicher und jederzeit unter Kontrolle. Mit Funktionen wie Modell-Konfiguration, Wissensmanagement und Multi-Channel-Support ermöglicht sie effiziente und anpassbare KI-Erlebnisse.",
+      "kanton": "Bern",
+      "branchen": ["Chatbots", "Virtual Agents", "Allgemein KI"],
+      "hosting": "In der Schweiz",
+      "website": "https://www.begasoft.ch",
+      "preis": "On request"
+    },
+    {
+      "name": "Apptiva AG - Bubble Chat",
+      "description": "Bubble Chat ermöglicht die mühelose Entwicklung und Integration von Chatbots, ohne dass Programmierkenntnisse erforderlich sind. Dank Künstlicher Intelligenz wird die Verwaltung des Chatbots auf ein Minimum reduziert. Darüber hinaus ist Bubble Chat modular aufgebaut, was die nahtlose Integration verschiedener Systeme ermöglicht.",
+      "kanton": "Bern",
+      "branchen": ["Chatbots", "Allgemein KI", "Text Analytics & NLP", "Chat", "Software-as-a-Service (SaaS)"],
+      "hosting": "In der Schweiz",
+      "website": "https://www.apptiva.ch",
+      "preis": "ab CHF 490 pro Monat",
+      "technologie": "Typescript, React, GraphQL, Docker, Kubernetes"
+    },
+    {
+      "name": "Cudos AG - Data und AI",
+      "description": "Wir sind Experten auf dem Gebiet der Entwicklung und Implementierung von KI für Unternehmen. Wir bereiten Ihr Unternehmen mit AI-Consulting und umfassenden Schulungen optimal auf den Einsatz von KI-Lösungen vor. Unsere individualisierten Chatbots verbessern Ihre Kommunikation, sowohl intern als auch mit Kunden.",
+      "kanton": "Zürich",
+      "branchen": ["Allgemein Consulting", "Allgemein Entwicklung", "Individualsoftwareentwicklung", "Chatbots", "Allgemein KI"],
+      "hosting": "Keine Angabe",
+      "website": "https://www.cudos.ch",
+      "preis": "On request",
+      "technologie": "LLM Sprachmodell, AI Service Bot, Microsoft Azure, .NET, Angular"
+    },
+    {
+      "name": "smartive AG - Information Systems",
+      "description": "Wir bieten Konzeption, Beratung und Entwicklung von Informations Systemen. Ob Chatbots zur automatisierten Benutzerführung oder individualisierbare Volltextsuche inklusive Crawling und Indexierung von Intranet / öffentlichen Seiten.",
+      "kanton": "Zürich",
+      "branchen": ["Chatbots", "Recommender System", "Allgemein KI", "Allgemein Entwicklung", "Allgemein Business Analytics"],
+      "hosting": "In der Schweiz",
+      "website": "https://www.smartive.ch",
+      "preis": "On request",
+      "technologie": "NodeJS, Microsoft Bot Framework, Elasticsearch, React, Angular, .Net (Core), Symfony"
+    },
+    {
+      "name": "Liip AG - LiipGPT",
+      "description": "LiipGPT liefert präzise Antworten aus den Datenquellen Deiner Wahl und schafft damit ein einmaliges, sicheres Nutzungserlebnis für deine Kund*innen und Dein Team. Die Lösung ist revDSG-, DSGVO- und EU AI Act-konform und wird sicher in der Schweiz gespeichert.",
+      "kanton": "Zürich",
+      "branchen": ["Allgemein KI", "Chatbots", "Business Performance Management"],
+      "hosting": "In der Schweiz",
+      "website": "https://www.liip.ch",
+      "preis": "Ab 250 CHF pro Monat",
+      "features": [
+        "Kundensupport - Automatisierung von Kundenanfragen",
+        "Wissensmanagement - Reduzierung manueller Recherche",
+        "Suche - Optimierte Suchergebnisse",
+        "No-Code-Funktion für einfache Einführung"
+      ]
+    },
+    {
+      "name": "owwn.ai",
+      "description": "owwn.ai ist eine KI-Plattform, die Unternehmen hilft, ihre eigenen KI-Modelle zu trainieren und zu deployen. Die Plattform bietet eine benutzerfreundliche Oberfläche für das Training und die Verwaltung von KI-Modellen.",
+      "kanton": "Bern",
+      "branchen": ["KI-Entwicklung", "Machine Learning", "KI-Training"],
+      "hosting": "Cloud",
+      "website": "https://owwn.ai",
+      "preis": "Individuell",
+      "services": [
+        "KI-Modell Training",
+        "KI-Modell Deployment",
+        "KI-Modell Verwaltung"
+      ],
+      "features": [
+        "Benutzerfreundliche Oberfläche",
+        "Automatisiertes Training",
+        "Skalierbare Infrastruktur"
+      ]
+    },
+    {
+      "name": "Infomaniak Network SA/AG - Souveräne Open-Source-KI-Plattform",
+      "description": "Infomaniak AI Tools ist eine in der Schweiz gehostete Plattform für künstliche Intelligenz, die speziell für sensible Daten entwickelt wurde. Diese Lösung bietet Unternehmen und Entwicklern On-Demand-Zugriff auf die besten Open-Source-KI-Tools zur Erstellung von Anwendungen über APIs.",
+      "kanton": "Genf",
+      "branchen": ["Allgemein KI", "Chatbots", "Text Analytics & NLP", "Virtual Agents"],
+      "hosting": "In der Schweiz",
+      "website": "https://www.infomaniak.com",
+      "preis": "On request"
+    }
+  ]
+} 
